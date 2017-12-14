@@ -1,0 +1,85 @@
+============
+Basic topics
+============
+
+--------------------
+Programming Language
+--------------------
+
+Object Oriented, REST-API 
+
+**Pyhton and Pytest**
+
+Do I know how to:
+
+- Read and understand a Python code?
+
+- Write new codes in Python using basic modules such as: os, logging, json, time and requests ?
+
+- Write Python tests using Pytest https://docs.pytest.org/en/latest/ ?
+
+- Run my tests using pytest commands such as:
+* run individual tests from a class or file
+* run all tests from a class or file
+* generate xunit report
+
+- Understand an Xunit report after a pytest is executed?
+
+- Code analysis tools for Python such as Pylint or Tox?
+* run the analyzer
+* understand logs and messages
+* fix warnings and errors messages
+
+- Handle list, dictionary, list of dictionary, save and read file, parse data, create reusable functions and methods in Python?
+
+**Git**
+
+- Clone a project to my local machine?
+
+- commit and push a code change?
+
+- view code history?
+
+- resolve a merge conflict?
+
+
+**files and structure**
+
+- Identify, read and maybe maintain:
+* Json file (see files/snippet_5.json)
+* Xml file  (see files/snippet_6.xml)
+* Bash file (see files/snippet_7.sh)
+
+
+-----------------
+Linux in general
+-----------------
+
+Do I know how to: 
+
+Manage users and groups in a Linux server, for things like:
+
+* create a new user
+* create a new group
+* add or remove an user to/from a group
+* make an user sudoers
+
+Change permissions in files and folders?
+
+Open and edit files in a Linux machine?
+
+Start and stop a linux service?
+
+Check if Firewall is running and see what the rules are?
+
+Copy and move files in a Linux machine?
+
+Look for logs at default location and help on troubleshooting? 
+
+Create and manage private and public SSH keys?
+
+Access a remote machine with SSH and private keys?
+
+Copy files from my local machine to a remote server running Linux and vice-versa?
+
+
